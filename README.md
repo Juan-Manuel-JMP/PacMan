@@ -1,4 +1,7 @@
-## PacMan en Python ![PacMan](assets/icon_pacman.png)
+<div style="text-align: center;">
+  <img src="https://github.com/Juan-Manuel-JMP/PacMan/raw/main/icon_pacman.png" alt="Icono de PacMan" width="50" />
+</div>
+
 
 Este es un juego de **PacMan** clásico, implementado en Python utilizando la biblioteca **Pygame**. El objetivo del juego es controlar a PacMan, comer los puntos (pellets) mientras evitas ser atrapado por los fantasmas.
 

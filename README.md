@@ -30,3 +30,6 @@ Fantasmas: Tres fantasmas persiguen a PacMan. Cada uno tiene un comportamiento d
  &emsp;
     <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
+
+## Captura de Pantalla
+![Captura de pantalla](https://github.com/Juan-Manuel-JMP/PacMan/blob/main/Captura%20de%20pantalla%20PacMan.png?raw=true)

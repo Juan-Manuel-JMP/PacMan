@@ -16,6 +16,7 @@ pip install pygame
 
 Para Jugar, simplemente ejecuta el archivo main.py:
 
+<img src="https://skillicons.dev/icons?i=python" />
 ```Python
     main.py
 ```

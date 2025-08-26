@@ -34,6 +34,8 @@ Niveles: El juego tiene varios niveles de dificultad que aumentan conforme avanz
 
 Fantasmas: Cuatro Fantasmas persiguen a PacMan. Cada uno tiene un comportamiento distinto.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Saludos!🖐🏻
  &emsp;
     <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>

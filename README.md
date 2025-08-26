@@ -14,22 +14,22 @@ pip install pygame
 ```  
 ## 🎮 Uso
 
-Para Juga, simplemente ejecuta el archivo main.py:
+Para Jugar, simplemente ejecuta el archivo main.py:
 
-```bash
-python main.py
+```Python
+    main.py
 ```
 
 ## ✨ Características
 
 Niveles: El juego tiene varios niveles de dificultad que aumentan conforme avanzas.
 
-Fantasmas: Tres fantasmas persiguen a PacMan. Cada uno tiene un comportamiento distinto.
+Fantasmas: Cuatro Fantasmas persiguen a PacMan. Cada uno tiene un comportamiento distinto.
 
 ## Saludos!🖐🏻
  &emsp;
     <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
 
-## Captura de Pantalla
+## Captura de Pantalla 📑
 ![Captura de pantalla](https://github.com/Juan-Manuel-JMP/PacMan/blob/main/Captura%20de%20pantalla%20PacMan.png?raw=true)

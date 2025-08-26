@@ -7,11 +7,14 @@ Este  juego  clásico, implementado en Python utilizando la biblioteca **Pygame*
 
 ## 📋 Requisitos
 - Pygame
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Si aún no tienes Pygame instalado, usa el siguiente comando:
 ```bash
 pip install pygame
-```  
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎮 Uso
 
 Para Jugar, simplemente ejecuta el archivo main.py:
@@ -20,6 +23,7 @@ Para Jugar, simplemente ejecuta el archivo main.py:
 ```Python
     main.py
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ Características
 
@@ -31,6 +35,8 @@ Fantasmas: Cuatro Fantasmas persiguen a PacMan. Cada uno tiene un comportamiento
  &emsp;
     <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Captura de Pantalla 📑
 ![Captura de pantalla](https://github.com/Juan-Manuel-JMP/PacMan/blob/main/Captura%20de%20pantalla%20PacMan.png?raw=true)
